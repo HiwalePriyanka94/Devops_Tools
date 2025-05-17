@@ -1,0 +1,6 @@
+#!/bin/bash
+# This script prints a welcome message and the current date and time
+
+echo "Hello, $USER!"
+echo "Today is: $(date)"
+echo "Current directory: $(pwd)"
